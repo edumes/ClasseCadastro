@@ -1,0 +1,17 @@
+C:\Users\811738\AppData\Local\Temporary Projects\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.exe.config
+C:\Bin\ResolucaoExercicio1\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.exe.config
+C:\Users\210045\Desktop\ResolucaoExercicio1\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.exe.config
+C:\Users\210045\Desktop\ResolucaoExercicio1\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.csprojResolveAssemblyReference.cache
+C:\Users\210045\Desktop\ResolucaoExercicio1\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.exe
+C:\Users\210045\Desktop\ResolucaoExercicio1\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.pdb
+C:\Users\210045\Desktop\ResolucaoExercicio1\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.exe
+C:\Users\210045\Desktop\ResolucaoExercicio1\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.pdb
+C:\Users\210045\Desktop\ClasseCadastro\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.exe.config
+C:\Users\210045\Desktop\ClasseCadastro\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.exe
+C:\Users\210045\Desktop\ClasseCadastro\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.pdb
+C:\Users\210045\Desktop\ClasseCadastro\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.csprojResolveAssemblyReference.cache
+C:\Users\210045\Desktop\ClasseCadastro\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.exe
+C:\Users\210045\Desktop\ClasseCadastro\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.pdb
+W:\ClasseCadastro\ResolucaoExercicio1\bin\Debug\ResolucaoExercicio1.exe.config
+W:\ClasseCadastro\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.exe
+W:\ClasseCadastro\ResolucaoExercicio1\obj\Debug\ResolucaoExercicio1.pdb
